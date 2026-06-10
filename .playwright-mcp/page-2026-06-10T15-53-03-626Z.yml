@@ -1,0 +1,15 @@
+- generic [ref=e9]:
+  - heading "Aiden Huang" [level=1] [ref=e10]
+  - paragraph [ref=e11]: did competitive math (4× AIME) and programming (USACO Platinum). Published on autonomous vehicles at NeurIPS and distributed computing at EuroSys.
+  - paragraph [ref=e12]: Worked on RL for Rocket League (top 0.1% of humans), captained baseball teams, deep tech at ETH Zürich, and LLM pipelines at Harvard + Nous Research.
+  - paragraph [ref=e13]: diffusing agi through computer use
+  - paragraph [ref=e14]:
+    - link "GitHub" [ref=e15] [cursor=pointer]:
+      - /url: https://github.com/aidentothe
+    - text: "|"
+    - link "aidenhuang.pro@gmail.com" [ref=e16] [cursor=pointer]:
+      - /url: mailto:aidenhuang.pro@gmail.com
+    - text: "|"
+    - link "fortnite (28k earned)" [ref=e17] [cursor=pointer]:
+      - /url: https://fortnitetracker.com/profile/all/aideniwnl
+  - paragraph [ref=e18]: 4× DECA ICDC, Stanford SIMR, MIT BeaverWorks, UCSD COSMOS, UCSC SIP
